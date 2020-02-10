@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/michaelrecinto0786/GitHub%20Node.js/_apis/build/status/recintoit.pipelines-javascript?branchName=master)](https://dev.azure.com/michaelrecinto0786/GitHub%20Node.js/_build/latest?definitionId=4&branchName=master) 
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
